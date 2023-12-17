@@ -36,15 +36,11 @@
 기업 내부 기밀사항으로 기업명, 기업정보 등에 해당되는 모든 정보는 블러처리함. 
 | 산업단지 내 기업의 ESG 시급 현황을 추적하는 대시보드 | 대시보드 기능 설명 | 
 | :----------------- | :----------------- |
-| <img src="https://github.com/GyuriKim12/KICOX_ESG_Monitoring_Service/assets/80877176/cde53532-84ad-42e7-9cb4-b1c942cd120b" width = 500px> | 1. 산업단지 내 모든 기업의 ESG 시급도와 정보를 간편하게 확인할 수 있음 <br> 2. 산업단지 및 업종별로 기업의 ESG 시급도 분포를 파악할 수 있음. |
-
+| <img src="https://github.com/GyuriKim12/KICOX_ESG_Monitoring_Service/assets/80877176/cde53532-84ad-42e7-9cb4-b1c942cd120b"> | 1. 산업단지 내 모든 기업의 ESG 시급도와 정보를 간편하게 확인할 수 있음 <br> 2. 산업단지 및 업종별로 기업의 ESG 시급도 분포를 파악할 수 있음. |
 | 산업단지 내 기업별 상세 정보를 확인하는 대시보드 | 대시보드 기능 설명 | 
-| :----------------- | :----------------- |
-| <img src="https://github.com/GyuriKim12/KICOX_ESG_Monitoring_Service/assets/80877176/428334ef-eff8-4e6e-ab1b-69954338703c" width = 500px> | 1. 기업의 ESG 경영 시급도 및 점수를 확인할 수 있음. <br> 2. 동종 업계 내 기업의 매출액 위치를 확인할 수 있음. <br> 3. 기업의 기본 정보 및 재무 정보를 확인할 수 있음. <br> 4. 시급도에 긍정적인 영향을 주는 요소와 부정적인 영향을 주는 요소를 확인할 수 있음.|
-
+| <img src="https://github.com/GyuriKim12/KICOX_ESG_Monitoring_Service/assets/80877176/428334ef-eff8-4e6e-ab1b-69954338703c"> | 1. 기업의 ESG 경영 시급도 및 점수를 확인할 수 있음. <br> 2. 동종 업계 내 기업의 매출액 위치를 확인할 수 있음. <br> 3. 기업의 기본 정보 및 재무 정보를 확인할 수 있음. <br> 4. 시급도에 긍정적인 영향을 주는 요소와 부정적인 영향을 주는 요소를 확인할 수 있음.|
 | ESG 지원 사업 참여기업의 현황 파악 대시보드 | 대시보드 기능 설명 | 
-| :----------------- | :----------------- |
-|<img src="https://github.com/GyuriKim12/KICOX_ESG_Monitoring_Service/assets/80877176/8bc05363-0e6c-4490-a130-73558aa18bbd" width = 500px> |1. ESG 경영 지원 현황을 파악할 수 있다. <br> 2. ESG 경영 지원 사업 참가 후 기업의 변화를 확인할 수 있다.|
+|<img src="https://github.com/GyuriKim12/KICOX_ESG_Monitoring_Service/assets/80877176/8bc05363-0e6c-4490-a130-73558aa18bbd"> | 1. ESG 경영 지원 현황을 파악할 수 있다. <br> 2. ESG 경영 지원 사업 참가 후 기업의 변화를 확인할 수 있다.|
 
 ## 모델링 코드 확인 및 실행
 ```
